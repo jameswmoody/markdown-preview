@@ -13,7 +13,7 @@ textarea {
   border: none;
 }
 
-.preview {
+#preview-div {
   background-color: #ffffff;
   width: 100%;
   height: 70vh;
