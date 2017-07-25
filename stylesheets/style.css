@@ -1,0 +1,21 @@
+html, body {
+  background-color: #F2F2F2;
+}
+
+h1 {
+  margin: 30px;
+}
+
+textarea {
+  width: 100%;
+  height: 70vh;
+  border-radius: 5px;
+  border: none;
+}
+
+.preview {
+  background-color: #ffffff;
+  width: 100%;
+  height: 70vh;
+  border-radius: 5px;
+}
